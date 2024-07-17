@@ -1,0 +1,42 @@
+{
+  "allVideos": [
+    {
+      "caption": "Zaalima ",
+      "imageUrl": "https://c.saavncdn.com/334/Raees-Hindi-2016-20200430093124-500x500.jpg",
+      "embedLink": "https://www.youtube.com/embed/hhdSyBHuI88",
+      "id": 3
+    },
+    {
+      "caption": "nnn",
+      "imageUrl": "ff",
+      "embedLink": "https://www.youtube.com/embed/mmmm",
+      "id": 4
+    },
+    {
+      "caption": "m",
+      "imageUrl": "m",
+      "embedLink": "https://www.youtube.com/embed/m",
+      "id": 5
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "Tamil Songs",
+      "allVideos": [
+        {
+          "caption": "nnn",
+          "imageUrl": "ff",
+          "embedLink": "https://www.youtube.com/embed/mmmm",
+          "id": 4
+        }
+      ],
+      "id": 4
+    },
+    {
+      "categoryName": "Hindi Songs",
+      "allVideos": [],
+      "id": 5
+    }
+  ],
+  "history": []
+}
